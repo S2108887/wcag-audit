@@ -5,13 +5,15 @@ Doe een WCAG audit op een bestaande website uit je eigen omgeving en rapporteer 
 De instructies van deze opdracht staan in [WIKI](https://github.com/fdnd-task/wcag-audit/wiki).
 
 
-## Titel Website
+## OBA Postjesweg
 
-Welke website heb je getest? Beschrijf de website en voeg een screenshot toe.
+Ik heb [OBA Postjesweg](https://oba.nl/nl/locaties/oba-postjesweg) getest.
 
-Toon een screenshot van het Lighthouse Accessibility testresultaat.
+![OBA-website-screenshot](screenshots/OBA-Postjesweg.png)
 
-Schrijf een samenvatting van de testbevindingen, en link naar je Wiki voor de volledige documentatie.
+Hier is de lighthouse-score. ![lighthouse-accessibility-score 100%](screenshots/lighthouse-score.png)
+
+Ik heb nog geen samenvatting geschreven. Zie [het testresultaat van OBA-Postjesweg](https://github.com/S2108887/wcag-audit/wiki/WCAG%E2%80%90audit-van-OBA-Postjesweg).
 
 ## Licentie
 
